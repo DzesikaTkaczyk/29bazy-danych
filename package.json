@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/DzesikaTkaczyk/29bazy-danych#readme",
   "dependencies": {
-    "mongoose": "^5.7.10"
+    "mongoose": "^5.13.15"
   }
 }
